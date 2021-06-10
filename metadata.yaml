@@ -5,12 +5,17 @@ contributor:
     agent_name: Ohrenschall, Helen E.
     gutenberg_agent_id: '53383'
     url: http://www.gutenberg.org/2009/agents/53383
+covers:
+- cover_type: archival
+  image_path: 65509-h/images/cover.jpg
 creator:
   author:
     agent_name: Bear, Gilly
     gutenberg_agent_id: '53382'
     url: http://www.gutenberg.org/2009/agents/53382
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65509#The-Adventures-of-Peterkin
 gutenberg_issued: '2021-06-04'
 gutenberg_type: Text
 identifiers:
