@@ -1,0 +1,25 @@
+_repo: The-Adventures-of-Peterkin_65509
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ohrenschall, Helen E.
+    gutenberg_agent_id: '53383'
+    url: http://www.gutenberg.org/2009/agents/53383
+creator:
+  author:
+    agent_name: Bear, Gilly
+    gutenberg_agent_id: '53382'
+    url: http://www.gutenberg.org/2009/agents/53382
+description: ''
+gutenberg_issued: '2021-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65509'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Adventures of Peterkin
+url: http://www.gutenberg.org/ebooks/65509
